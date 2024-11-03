@@ -1,0 +1,38 @@
+step:1:
+
+open project in vs code or spyder
+
+
+step 2:
+
+open app.py 
+
+step 3:
+
+At the right top corner you'll find a Run button(run python file) for VS code or spyder
+
+step 4:
+
+if there is an error of sklearn module error
+
+install it in terminal with command
+
+>> pip install scikit-learn 
+
+and re-run the code using command 
+>> python app.py
+
+step:5
+
+go to browser and paste the link
+
+http://127.0.0.1:5000
+
+
+step :6
+
+Enter all the values
+
+and click submit button
+
+you'll get a Result(Prediction)
